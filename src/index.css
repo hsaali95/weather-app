@@ -20,4 +20,14 @@ code {
 li {
   list-style: none;
   line-height: 30px;
+  font-weight: bolder;
+  justify-content: center;
+}
+.setBackgroundImage {
+  position: fixed;
+  margin-top: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100vh;
 }
